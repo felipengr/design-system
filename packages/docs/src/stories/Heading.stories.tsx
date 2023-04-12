@@ -8,6 +8,13 @@ export default {
   args: {
     children: 'Custom Title',
   },
+  parameters: {
+    docs: {
+      description: {
+        component: 'Teste',
+      },
+    },
+  },
 } as Meta<HeadingProps>
 
 export const Primary: StoryObj<HeadingProps> = {}
