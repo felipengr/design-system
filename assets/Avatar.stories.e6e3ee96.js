@@ -1,0 +1,2 @@
+import{A as t}from"./index.9968d95a.js";import"./index.5a648c8b.js";import"./iframe.492a8032.js";import"./index.59770ad9.js";import"./jsx-runtime.506d2ec3.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/felipengr.png",alt:"Felipe Nogueira"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},l=["Primary","WithFallback"];export{p as Primary,c as WithFallback,l as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.e6e3ee96.js.map
